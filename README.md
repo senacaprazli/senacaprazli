@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sena</h1>
-<h3 align="center">A Software Enginner from Turkey</h3>
+<h3 align="center">A Software Engineer from Turkey</h3>
 
 - 🌱 I’m currently learning **C#, .Net Core**
 
